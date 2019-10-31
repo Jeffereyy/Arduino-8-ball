@@ -1,7 +1,7 @@
 # Arduino-8-ball
 Project replicating crystal ball from "Interstate 60" movie.
 You'll need:
-  Gyroscope/Accelerometer MPU 6050
+  Gyroscope/Accelerometer MPU 6050 /n
   Arduino Uno
   LCD Screen 16x2 (You can use a diff size of the screen though)
   IIC serial I2C LCD adapter board for arduino
