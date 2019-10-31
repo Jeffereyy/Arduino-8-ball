@@ -1,5 +1,6 @@
 # Arduino-8-ball
 Project replicating crystal ball from "Interstate 60" movie.
+Important: read Library file
 You'll need:
   Gyroscope/Accelerometer MPU 6050,
   Arduino Uno,
@@ -10,6 +11,7 @@ You'll need:
 
 Same in russian:
 Проект, повторяющий шар предсказаний из фильма "Трасса 60".
+Важно: смотрите файл Library
 Вам потребуется:
   Гироскоп/Акселерометр MPU 6050,
   Arduino Uno,
